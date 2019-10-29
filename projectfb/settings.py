@@ -25,7 +25,7 @@ SECRET_KEY = 'u-v53vdr#f(!l32t%d8ko(n4+f9%5)-50xsr&a)ym_wb5qj%2%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['projectfb-asil.herokuapp.com']
 
 
 # Application definition
